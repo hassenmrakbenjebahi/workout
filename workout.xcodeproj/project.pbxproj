@@ -14,6 +14,8 @@
 		9ADF793B2B54AFF400794089 /* workout.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9ADF79392B54AFF400794089 /* workout.xcdatamodeld */; };
 		9ADF793D2B54AFF500794089 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9ADF793C2B54AFF500794089 /* Assets.xcassets */; };
 		9ADF79402B54AFF500794089 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9ADF793E2B54AFF500794089 /* LaunchScreen.storyboard */; };
+		9ADF79482B54B39000794089 /* DetaisViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ADF79472B54B39000794089 /* DetaisViewController.swift */; };
+		9ADF794A2B54BCAD00794089 /* PanierViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ADF79492B54BCAD00794089 /* PanierViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		9ADF793C2B54AFF500794089 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9ADF793F2B54AFF500794089 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9ADF79412B54AFF500794089 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9ADF79472B54B39000794089 /* DetaisViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetaisViewController.swift; sourceTree = "<group>"; };
+		9ADF79492B54BCAD00794089 /* PanierViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PanierViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				9ADF793E2B54AFF500794089 /* LaunchScreen.storyboard */,
 				9ADF79412B54AFF500794089 /* Info.plist */,
 				9ADF79392B54AFF400794089 /* workout.xcdatamodeld */,
+				9ADF79472B54B39000794089 /* DetaisViewController.swift */,
+				9ADF79492B54BCAD00794089 /* PanierViewController.swift */,
 			);
 			path = workout;
 			sourceTree = "<group>";
@@ -144,7 +150,9 @@
 				9ADF79352B54AFF400794089 /* ViewController.swift in Sources */,
 				9ADF79312B54AFF400794089 /* AppDelegate.swift in Sources */,
 				9ADF79332B54AFF400794089 /* SceneDelegate.swift in Sources */,
+				9ADF794A2B54BCAD00794089 /* PanierViewController.swift in Sources */,
 				9ADF793B2B54AFF400794089 /* workout.xcdatamodeld in Sources */,
+				9ADF79482B54B39000794089 /* DetaisViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
